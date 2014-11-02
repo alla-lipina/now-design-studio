@@ -15,12 +15,12 @@ html {
 }
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #00e7ca;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #00e7ca;
     text-shadow: none;
 }
 
@@ -72,7 +72,7 @@ li {
    ========================================================================== */
 
 body {
-    font: 16px/22px Helvetica Neue, Helvetica, Arial;
+    font: 14px/22px Helvetica Neue, Helvetica, Arial;
     height: 100%;
 }
 
@@ -147,6 +147,7 @@ nav .menu {
 
 .main article {
     width: 50%;
+    padding-right: 65px;
 }
 
 .main header {
