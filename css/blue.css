@@ -1,0 +1,50 @@
+body {
+    font-family: LifeBTWXX-Roman;
+    letter-spacing: 0.1em;
+    font-size: 14px;
+    height: 100%;
+    text-transform: uppercase;
+    background: #101c97;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 1px solid black;
+}
+
+header {
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+main {
+    font-family: FranklinGothicLTPro-Dm;
+    letter-spacing: 15px;
+    box-sizing: border-box;
+    width: 1000px;
+    text-align: center;
+    font-size: 130px;
+    line-height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -500px;
+    margin-top: -130px;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+    left: 50%;
+    margin-left: -150px;
+    font-size: 14px;
+    margin-bottom: 5%;
+    width: 300px;
+    text-align: center;
+}
